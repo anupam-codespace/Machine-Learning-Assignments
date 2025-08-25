@@ -25,10 +25,18 @@ Dataset Loaded Successfully
 R² Accuracy = **27.29%**
 Average Error (MAE) = **1474748.13**
 
-### **Graphs**
-1. Regression Line vs Actual Data
 
-2. Epoch vs Accuracy Graph
+
+### **Graphs**
+### 01. Accuracy vs Epoch
+![Accuracy vs Epoch](https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/6a9ca95b9cce1bacdf181f8fdad24900be92b2ca/Graphs%20for%20Assignments/download%20(1).png)
+
+### 02. Actual vs Prediction (Housing Data)
+![Actual vs Prediction](https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/6a9ca95b9cce1bacdf181f8fdad24900be92b2ca/Graphs%20for%20Assignments/download.png)
+
+
+
+
 
 
 ###
