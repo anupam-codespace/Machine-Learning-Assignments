@@ -1,7 +1,7 @@
 **Machine Learning Assignments** repository!  
 
 # [Assignment 02 ✔︎](https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/main/Assignment%2001/Assignment_1_Digit_Recognition.ipynb) 
-## Recognize a Digit using TensorFlow (CNN Implementation)  
+## Housing Price Estimation through Simple Linear Regression.  
 
 ### **Description**  
 The objective of this assignment was to implement a **Convolutional Neural Network (CNN)** using **TensorFlow/Keras** to classify handwritten digits from the **MNIST dataset**.
