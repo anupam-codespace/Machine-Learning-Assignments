@@ -1,4 +1,4 @@
-**Machine Learning Assignments** repository!  
+**Machine Learning Assignments** Documentations Repository!  
 
 # [Assignment 02 ✔︎](https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/f797791f67d639a448a66e68086b485631197a89/assignment2-housepriceprediction-ipynb.ipynb) 
 ## Housing Price Estimation through Simple Linear Regression.  
