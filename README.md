@@ -4,8 +4,34 @@
 ## Housing Price Estimation through Simple Linear Regression.  
 
 ### **Description**  
-The objective of this assignment was to implement a **Convolutional Neural Network (CNN)** using **TensorFlow/Keras** to classify handwritten digits from the **MNIST dataset**.
+This project demonstrates a Simple Linear Regression approach to predict housing prices based on the size of the house.
+The goal is to establish a mathematical model that maps the relationship between house size (independent variable) and house price (dependent variable).
 
+The assignment also involves visualizing model performance using an Epoch vs Accuracy graph and calculating performance metrics such as R² Accuracy and Average Error.
+
+### **Dataset**
+Kaggle Dataset Reference: [Housing Prices Dataset](https://www.kaggle.com/datasets/anupamsaha002/housing) 
+
+### **Dataset includes:**
+Size → Square footage of houses
+Price → Price of the house in currency units
+
+### **Kaggle Notebook**
+You can view the complete implementation here:
+ [🔗 My Kaggle Notebook](https://www.kaggle.com/code/anupamsaha002/assignment2-housepriceprediction-ipynb) 
+
+### **Model Performance**
+Dataset Loaded Successfully
+R² Accuracy = **27.29%**
+Average Error (MAE) = **1474748.13**
+
+### **Graphs**
+1. Regression Line vs Actual Data
+
+2. Epoch vs Accuracy Graph
+
+
+###
 
 # [Assignment 01 ✔︎](https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/main/Assignment%2001/Assignment_1_Digit_Recognition.ipynb) 
 ## Recognize a Digit using TensorFlow (CNN Implementation)  
