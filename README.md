@@ -20,8 +20,8 @@ Kaggle Dataset Reference: [Housing Prices Dataset](https://www.kaggle.com/datase
 ---------------------------------------------
 
 ### **Dataset includes:**
-Size → Square footage of houses
-Price → Price of the house in currency units
+Size → Square footage of houses.     
+Price → Price of the house in currency units.
 
 ------------------------------------------------------------------
 
