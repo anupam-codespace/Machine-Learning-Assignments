@@ -1,29 +1,43 @@
-**Machine Learning Assignments** Documentations Repository!  
+**Machine Learning Assignments** Documentations Repository! 
+
 --------------------------------------------------------------------------------------------------------------------------------------
+
 # [Assignment 02 ✔︎](https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/f797791f67d639a448a66e68086b485631197a89/assignment2-housepriceprediction-ipynb.ipynb) 
-## Housing Price Estimation through Simple Linear Regression.  
+## Housing Price Estimation through Simple Linear Regression. 
+
 --------------------------------------------------------------------------------------
+
 ### **Description**  
 This project demonstrates a Simple Linear Regression approach to predict housing prices based on the size of the house.
 The goal is to establish a mathematical model that maps the relationship between house size (independent variable) and house price (dependent variable).
 The assignment also involves visualizing model performance using an Epoch vs Accuracy graph and calculating performance metrics such as R² Accuracy and Average Error.
+
 ----------------------------------------------------------------------------
+
 ### **Dataset**
 Kaggle Dataset Reference: [Housing Prices Dataset](https://www.kaggle.com/datasets/anupamsaha002/housing) 
+
 ---------------------------------------------
+
 ### **Dataset includes:**
 Size → Square footage of houses
 Price → Price of the house in currency units
+
 ------------------------------------------------------------------
+
 ### **Kaggle Notebook**
 You can view the complete implementation here:
- [🔗 My Kaggle Notebook](https://www.kaggle.com/code/anupamsaha002/assignment2-housepriceprediction-ipynb) 
+ [🔗 My Kaggle Notebook](https://www.kaggle.com/code/anupamsaha002/assignment2-housepriceprediction-ipynb)
+ 
 -------------------------
+
 ### **Model Performance**
 Dataset Loaded Successfully
 R² Accuracy = **27.29%**
 Average Error (MAE) = **1474748.13**
+
 ----------------------------------------------
+
 ### **Graphs**
 ### 01. Accuracy vs Epoch
 ![Accuracy vs Epoch](https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/6a9ca95b9cce1bacdf181f8fdad24900be92b2ca/Graphs%20for%20Assignments/download%20(1).png)
