@@ -1,5 +1,5 @@
 **Machine Learning Assignments** repository!  
-# Assignment 01 ✔︎
+# [Assignment 01 ✔︎](https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/main/Assignment%2001/Assignment_1_Digit_Recognition.ipynb) 
 ## Recognize a Digit using TensorFlow (CNN Implementation)  
 
 ### **Description**  
