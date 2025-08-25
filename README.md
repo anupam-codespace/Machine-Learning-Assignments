@@ -74,7 +74,7 @@ The workflow included:
 ---
 ### **Graphs**
 01. Accuracy vs Epoch
-   ![Actual vs Prediction](https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/6a9ca95b9cce1bacdf181f8fdad24900be92b2ca/Graphs%20for%20Assignments/download.png)
+   ![Actual vs Prediction](Graphs_for_Assignments/download_3.png)
 
 ### **📂 Resources**  
 📄 **Detailed Documentation:** [View Google Doc](https://docs.google.com/document/d/1yn_iTuoqq4Tn6nX2r2aioUAiaiKAdZJE_nYoRpIUrBw/edit?usp=sharing)  
