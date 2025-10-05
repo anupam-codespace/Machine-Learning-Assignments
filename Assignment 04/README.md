@@ -13,4 +13,6 @@ Result:
 Effective classification of iris species with visual insights.
 
 Class - 
-https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/f6c396b26002a0415031f0afb209706064f8c164/Assignment%2004/Assignment%204%20-%20Class%20.png
+
+(https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/f6c396b26002a0415031f0afb209706064f8c164/Assignment%2004/Assignment%204%20-%20Class%20.png)
+
