@@ -16,3 +16,4 @@ Class -
 
 (https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/f6c396b26002a0415031f0afb209706064f8c164/Assignment%2004/Assignment%204%20-%20Class%20.png)
 
+![Actual vs Prediction](https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/6a9ca95b9cce1bacdf181f8fdad24900be92b2ca/Graphs%20for%20Assignments/download.png)
