@@ -11,3 +11,6 @@ Decision Tree classifier using entropy impurity
 Model training and prediction
 Accuracy evaluation
 Visualization of the tree structure
+
+
+![](https://github.com/anupam-codespace/Machine-Learning-Assignments/blob/740c7081a0486cb63c87c8ec7b2677f0a503b368/Assigment%2003/Assignment%203%20-%20Trees.png)
